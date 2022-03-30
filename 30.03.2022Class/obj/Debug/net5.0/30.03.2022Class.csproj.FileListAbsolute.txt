@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\30.03.2022Class\30.03.2022Class\bin\Debug\net5.0\30.03.2022Class.exe
+C:\Users\User\source\repos\30.03.2022Class\30.03.2022Class\bin\Debug\net5.0\30.03.2022Class.deps.json
+C:\Users\User\source\repos\30.03.2022Class\30.03.2022Class\bin\Debug\net5.0\30.03.2022Class.runtimeconfig.json
+C:\Users\User\source\repos\30.03.2022Class\30.03.2022Class\bin\Debug\net5.0\30.03.2022Class.runtimeconfig.dev.json
+C:\Users\User\source\repos\30.03.2022Class\30.03.2022Class\bin\Debug\net5.0\30.03.2022Class.dll
+C:\Users\User\source\repos\30.03.2022Class\30.03.2022Class\bin\Debug\net5.0\ref\30.03.2022Class.dll
+C:\Users\User\source\repos\30.03.2022Class\30.03.2022Class\bin\Debug\net5.0\30.03.2022Class.pdb
+C:\Users\User\source\repos\30.03.2022Class\30.03.2022Class\obj\Debug\net5.0\30.03.2022Class.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\30.03.2022Class\30.03.2022Class\obj\Debug\net5.0\30.03.2022Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\30.03.2022Class\30.03.2022Class\obj\Debug\net5.0\30.03.2022Class.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\30.03.2022Class\30.03.2022Class\obj\Debug\net5.0\30.03.2022Class.AssemblyInfo.cs
+C:\Users\User\source\repos\30.03.2022Class\30.03.2022Class\obj\Debug\net5.0\30.03.2022Class.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\30.03.2022Class\30.03.2022Class\obj\Debug\net5.0\30.03.2022Class.dll
+C:\Users\User\source\repos\30.03.2022Class\30.03.2022Class\obj\Debug\net5.0\ref\30.03.2022Class.dll
+C:\Users\User\source\repos\30.03.2022Class\30.03.2022Class\obj\Debug\net5.0\30.03.2022Class.pdb
+C:\Users\User\source\repos\30.03.2022Class\30.03.2022Class\obj\Debug\net5.0\30.03.2022Class.genruntimeconfig.cache
